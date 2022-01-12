@@ -17,6 +17,21 @@ A mini e-commerce application built with Ruby(2.3.5) on Rails(4.2.6) as a learni
 
 !["Home Page"](https://github.com/denn15law/jungle-rails/blob/master/docs/jungle_home_page.png)
 
+## Admin Pages
+
+!["Product Page"](https://github.com/denn15law/jungle-rails/blob/master/docs/jungle_admin_prodcuts.png)
+!["Category Page"](https://github.com/denn15law/jungle-rails/blob/master/docs/jungle_admin_category.png)
+
+## Cart Pages
+
+!["Empty Cart"](https://github.com/denn15law/jungle-rails/blob/master/docs/jungle_empty_cart.png)
+!["Example Cart"](https://github.com/denn15law/jungle-rails/blob/master/docs/jungle_cart.png)
+!["Example Order"](https://github.com/denn15law/jungle-rails/blob/master/docs/jungle_order.png)
+
+## Login
+
+!["login page"](https://github.com/denn15law/jungle-rails/blob/master/docs/jungle_login.png)
+
 ## Setup
 
 1. Run `bundle install` to install dependencies
