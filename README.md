@@ -11,7 +11,11 @@ A mini e-commerce application built with Ruby(2.3.5) on Rails(4.2.6) as a learni
 - Added Admin Security
 - Fixed bug when displaying checkout page with empty cart
 
-## Screenshots
+# Screenshots
+
+## Home Page
+
+!["Home Page"](https://github.com/denn15law/jungle-rails/blob/master/docs/jungle_home_page.png)
 
 ## Setup
 
